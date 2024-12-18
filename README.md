@@ -71,7 +71,7 @@ Follow the steps below to set up the project locally:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/codeleap-assessment.git
+git clone https://github.com/GuilhermeCAz/codeleap-assessment.git
 cd codeleap-assessment
 ```
 
