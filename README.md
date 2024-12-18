@@ -17,7 +17,7 @@ The API is structured to follow standard RESTful principles and uses JSON as the
 
 This project has been deployed on PythonAnywhere for live usage. You can access the API here:
 
-<http://guilhermecaz.pythonanywhere.com/api/posts/>
+<http://guilhermecaz.pythonanywhere.com>
 
 ## API Usage
 
